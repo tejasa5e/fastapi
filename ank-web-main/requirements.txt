@@ -1,0 +1,13 @@
+pandas==1.4.2
+fastapi==0.78.0
+uvicorn==0.17.6
+databases==0.6.0
+httpx==0.23.0
+python-multipart==0.0.5
+passlib[bcrypt]
+python-jose[cryptography]
+<<<<<<< HEAD
+bcrypt==3.2.2
+=======
+psycopg2
+>>>>>>> e233549a87fba80a7ef94d253e4ce699eaec7ca1
